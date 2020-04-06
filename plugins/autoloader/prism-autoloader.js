@@ -75,6 +75,7 @@
 		"objectivec": "c",
 		"opencl": "c",
 		"parser": "markup",
+		"pawn": "clike",
 		"php": [
 			"clike",
 			"markup-templating"

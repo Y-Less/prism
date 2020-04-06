@@ -124,6 +124,7 @@
 		"powerquery": "PowerQuery",
 		"pq": "PowerQuery",
 		"mscript": "PowerQuery",
+		"pawn": "Pawn",
 		"powershell": "PowerShell",
 		"properties": ".properties",
 		"protobuf": "Protocol Buffers",
